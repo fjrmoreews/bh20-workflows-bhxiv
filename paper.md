@@ -10,11 +10,19 @@ authors:
   - name: Peter Amstutz
     orcid: 0000-0003-3566-7705
     affiliation: 2
+    
+  - name: François Moreews
+    orcid: 0000-0002-4168-4459
+    affiliation: 3
+    
 affiliations:
   - name: RISE Lab, University of California Berkeley, Berkeley, CA, USA.
     index: 1
   - name: Curii Corporation, Somerville, MA, USA.
     index: 2
+  - name: PEGASE/DYLISS team, INRAE, Rennes, France.
+    index: 3    
+    
 date: 11 April 2020
 bibliography: paper.bib
 ---
